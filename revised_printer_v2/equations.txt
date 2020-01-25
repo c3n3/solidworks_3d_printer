@@ -1,1 +1,2 @@
 ﻿"8mm hole" = 8mm
+"22mm hole"= 22mm
