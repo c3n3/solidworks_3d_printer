@@ -1,0 +1,37 @@
+This is the addition of some templates
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   common/~$silverSlider.SLDPRT
+#	modified:   revised_printer_v2/longRodMount.SLDPRT
+#	new file:   revised_printer_v2/motorCap.SLDPRT
+#	modified:   revised_printer_v2/revisedPrinter.SLDASM
+#	new file:   revised_printer_v2/zMotorHolder.SLDPRT
+#	modified:   revised_printer_v2/zMotorMount.SLDPRT
+#	new file:   revised_printer_v2/zMotorTemplate.SLDPRT
+#	modified:   revised_printer_v2/zMountAssem.SLDASM
+#	modified:   revised_printer_v2/zPulleyMount.SLDPRT
+#	new file:   revised_printer_v2/~$basePlateDumb.SLDPRT
+#	new file:   revised_printer_v2/~$brassThing.SLDPRT
+#	new file:   revised_printer_v2/~$lead screw.SLDPRT
+#	new file:   revised_printer_v2/~$longRodMount.SLDPRT
+#	new file:   revised_printer_v2/~$longRods.SLDPRT
+#	new file:   revised_printer_v2/~$motor.SLDPRT
+#	new file:   revised_printer_v2/~$motorCap.SLDPRT
+#	new file:   revised_printer_v2/~$powerSupply.SLDPRT
+#	new file:   revised_printer_v2/~$printPlateHolder.SLDPRT
+#	new file:   revised_printer_v2/~$revisedPrinter.SLDASM
+#	new file:   revised_printer_v2/~$slider.SLDPRT
+#	new file:   revised_printer_v2/~$upperPlateDumb.SLDPRT
+#	new file:   revised_printer_v2/~$xyRods.SLDPRT
+#	new file:   revised_printer_v2/~$zMotorHolder.SLDPRT
+#	new file:   revised_printer_v2/~$zMotorMount.SLDPRT
+#	new file:   revised_printer_v2/~$zMotorTemplate.SLDPRT
+#	new file:   revised_printer_v2/~$zMountAssem.SLDASM
+#	new file:   revised_printer_v2/~$zPulleyMount.SLDPRT
+#

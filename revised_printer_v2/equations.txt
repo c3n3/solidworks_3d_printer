@@ -1,2 +1,3 @@
-﻿"8mm hole" = 8mm
-"22mm hole"= 22mm
+﻿"8mm hole" = 8.6mm
+"22mm hole"= 23mm
+"15mm hole"= 16mm
