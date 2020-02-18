@@ -1,3 +1,5 @@
-﻿"8mm hole" = 8.6mm
+﻿"8mm hole" = 8.4mm
 "22mm hole"= 23mm
-"15mm hole"= 16mm
+"15mm hole"= 15.8mm
+"bed height offset"= 3mm
+"motor width"= 42.5mm
