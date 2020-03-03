@@ -1,13 +1,13 @@
 # solidworks_3d_printer
 This is a custom design of a 3d printer built in solidworks that is better
 
-To do:
+# To do:
 1. buy pvc
 2. redo z axis w/ pvc design
 3. create z axis stabilizer
 4. integrate pvc frame into design
 
-Sub-Assemblies
+# Sub-Assemblies
 
 base/frame w/ 1/4" particle board filler
 
