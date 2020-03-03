@@ -8,7 +8,7 @@ To do:
 4. integrate pvc frame into design
 
 Sub-Assemblies
-base/frame w/ 1/4" particle board filler
+base/frame w/ 1/4" particle board filler '\n'
 one z axis - motor, mount mechanism, clip to PVC, rods
 x-axis w/ extruder, pulley/motor mount
 bed, w/ layered design
